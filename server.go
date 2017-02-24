@@ -10,11 +10,11 @@ import (
 	"github.com/go-ozzo/ozzo-routing/auth"
 	"github.com/go-ozzo/ozzo-routing/content"
 	"github.com/go-ozzo/ozzo-routing/cors"
-	"github.com/leoht/github-clone/apis"
-	"github.com/leoht/github-clone/app"
-	"github.com/leoht/github-clone/daos"
-	"github.com/leoht/github-clone/errors"
-	"github.com/leoht/github-clone/services"
+	"github.com/leoht/golang-restful-starter-kit/apis"
+	"github.com/leoht/golang-restful-starter-kit/app"
+	"github.com/leoht/golang-restful-starter-kit/daos"
+	"github.com/leoht/golang-restful-starter-kit/errors"
+	"github.com/leoht/golang-restful-starter-kit/services"
 	_ "github.com/lib/pq"
 )
 

@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/leoht/github-clone/app"
-	"github.com/leoht/github-clone/models"
+	"github.com/leoht/golang-restful-starter-kit/app"
+	"github.com/leoht/golang-restful-starter-kit/models"
 )
 
 // artistDAO specifies the interface of the artist DAO needed by ArtistService.

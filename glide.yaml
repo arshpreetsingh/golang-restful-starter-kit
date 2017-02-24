@@ -1,4 +1,4 @@
-package: github.com/leoht/github-clone
+package: github.com/leoht/golang-restful-starter-kit
 import:
 - package: github.com/Sirupsen/logrus
   version: ^0.10

@@ -105,7 +105,7 @@ go run server.go
 
 You should be able to access URLs such as `http://localhost:8080`, `http://localhost:8080/api/users`.
 
-For a complete RESTful application boilerplate based on ozzo-routing, please refer to the [golang-restful-starter-kit](https://github.com/leoht/github-clone)
+For a complete RESTful application boilerplate based on ozzo-routing, please refer to the [golang-restful-starter-kit](https://github.com/leoht/golang-restful-starter-kit)
 
 
 ### Routes
